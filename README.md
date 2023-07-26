@@ -86,8 +86,9 @@ Welcome to the Interpretable Artificial Intelligence course repository offered a
 Please find below a brief overview of the contents of this repository:
 1. `HW1/`: In this directory, you'll find the code for Assignment 1, which centers around training a robust model through data augmentation and exploring the use of the Angular loss function. Additionally, we examine the model's resilience against fast gradient methods and its performance when subjected to noisy data.
 
-2. `HW2/`: This directory contains code for Assignment 2, which focuses on Sentiment analysis using Naive Bayes and Logistic Regression, and training word2vec.
-3. `HW3/`: This directory contains code for Assignment 3, which focuses on Sentiment analysis using LSTM, RNN, and GRU.
+2. `HW2/`: In this directory, you'll find the code for Assignment 2, which delves into various interpretability methods like SHAP, knowledge distillation, using D-rise to generate saliency maps, and employing LIME to interpret MobileNet's decisions.
+
+3. `HW3/`: This directory contains code for Assignment 3, which centers around backdoor attacks and out-of-distribution detection.
 
 ## Disclaimer
 
